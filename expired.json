@@ -1,5 +1,5 @@
 {
-  "force_expire_all": false,
+  "force_expire_all": true,
   "expired_keys": [],
   "blocked_devices": []
 }
